@@ -1,15 +1,15 @@
-# ±ØÓ¦ÊäÈë·¨¹ú¼ÊÒô±ê×Ô¶¨Òå´Ê¿â
-### ±àÂë·½°¸
-#### ±àÂë·½°¸»ù´¡À´Ô´
-- ÅËÎòÔÆÏÈÉúÉè¼ÆµÄÔÆÁú¹ú¼ÊÒô±êÊäÈë·¨£¨![http://www.eastling.org/resource.htm] (http://www.eastling.org/resource.htm)£©
-#### ÐÞÕý·½°¸
-Òò±ØÓ¦ÊäÈë·¨ÖÐÊý×ÖÓÃÓÚºòÑ¡´ÊÉÏÆÁ£¬Òò´ËÔ­±àÂëÖÐ´øÊý×ÖµÄ¾ù×÷ÁËÐÞ¸Ä£¬¾ßÌå°üÀ¨£º
-1. È¦·¢·ûºÅµÄÊý×Ö±àÂëÐÞ¸ÄÈçÏÂ£º
+# å¿…åº”è¾“å…¥æ³•å›½é™…éŸ³æ ‡è‡ªå®šä¹‰è¯åº“
+### ç¼–ç æ–¹æ¡ˆ
+#### ç¼–ç æ–¹æ¡ˆåŸºç¡€æ¥æº
+- æ½˜æ‚Ÿäº‘å…ˆç”Ÿè®¾è®¡çš„äº‘é¾™å›½é™…éŸ³æ ‡è¾“å…¥æ³•ï¼ˆhttp://www.eastling.org/resource.htmï¼‰
+#### ä¿®æ­£æ–¹æ¡ˆ
+å› å¿…åº”è¾“å…¥æ³•ä¸­æ•°å­—ç”¨äºŽå€™é€‰è¯ä¸Šå±ï¼Œå› æ­¤åŽŸç¼–ç ä¸­å¸¦æ•°å­—çš„å‡ä½œäº†ä¿®æ”¹ï¼Œå…·ä½“åŒ…æ‹¬ï¼š
+1. åœˆå‘ç¬¦å·çš„æ•°å­—ç¼–ç ä¿®æ”¹å¦‚ä¸‹ï¼š
 ![enter image description here](https://i.imgur.com/L7v8kmG.png)
-2. ¦ÈÔ­±àÂëÎªÊý×Ö0£¬¸ÄÎªoo-£¬´ËÀàµÄ»¹ÓÐ?µÈ¡£
-3. ¶ººÅ¼ü£¨,<£©ºÍ¾äºÅ¼ü£¨.>¼ü£©Ò»°ã×÷Îª·­Ò³ÓÃ£¬±àÂëÖÐ.ºÅÊ§Ð§£¬¹ÊÒ»ÂÉ×ª»»Îªd£¬ËäºÍ±íÊ¾×Ö·ûµ¹×ªµÄd£¨Èçad£¬?£©Ïà³åÍ»£¬Ôö¼ÓÁËÖØÂë£¬µ«ÆðÂë¹¦ÄÜÄÜ¼ÌÐø±£³Ö£¬¾ßÌåÉæ¼°Òô±ê£º
+2. Î¸åŽŸç¼–ç ä¸ºæ•°å­—0ï¼Œæ”¹ä¸ºoo-ï¼Œæ­¤ç±»çš„è¿˜æœ‰?ç­‰ã€‚
+3. é€—å·é”®ï¼ˆ,<ï¼‰å’Œå¥å·é”®ï¼ˆ.>é”®ï¼‰ä¸€èˆ¬ä½œä¸ºç¿»é¡µç”¨ï¼Œç¼–ç ä¸­.å·å¤±æ•ˆï¼Œæ•…ä¸€å¾‹è½¬æ¢ä¸ºdï¼Œè™½å’Œè¡¨ç¤ºå­—ç¬¦å€’è½¬çš„dï¼ˆå¦‚adï¼Œ?ï¼‰ç›¸å†²çªï¼Œå¢žåŠ äº†é‡ç ï¼Œä½†èµ·ç åŠŸèƒ½èƒ½ç»§ç»­ä¿æŒï¼Œå…·ä½“æ¶‰åŠéŸ³æ ‡ï¼š
 ![enter image description here](https://i.imgur.com/5OTHp0y.png)
 
-## Ê¹ÓÃ·½·¨
-1. ½«userdefinephrase.datÎÄ¼þÌæ»»µ½±ØÓ¦ÊäÈë·¨°²×°Ä¿Â¼ÏÂµÄ/sharedµÄÎÄ¼þ¼ÐÖÐ£»
-2. ¿ÉÄÜÐèÒªÇÐ»»ÊäÈë·¨»òÕßÖØÆôÏµÍ³²ÅÄÜÉúÐ§¡£
+## ä½¿ç”¨æ–¹æ³•
+1. å°†userdefinephrase.datæ–‡ä»¶æ›¿æ¢åˆ°å¿…åº”è¾“å…¥æ³•å®‰è£…ç›®å½•ä¸‹çš„/sharedçš„æ–‡ä»¶å¤¹ä¸­ï¼›
+2. å¯èƒ½éœ€è¦åˆ‡æ¢è¾“å…¥æ³•æˆ–è€…é‡å¯ç³»ç»Ÿæ‰èƒ½ç”Ÿæ•ˆã€‚
